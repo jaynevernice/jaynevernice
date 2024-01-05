@@ -23,7 +23,7 @@ I'm fueled by a passion for pop culture and all things geeky, infusing these ins
 
 ## Skills
 - Programming Languages: JavaScript, Python, Java, PHP, C++, SQL
-- Technologies & Tools: Git, Jupyter Notebook, Roboflow, HTML/CSS, React
+- Technologies & Tools: Git, Jupyter Notebook, Roboflow, Replit, HTML/CSS, React
 
 <!---
 ## Projects
