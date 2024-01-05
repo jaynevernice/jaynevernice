@@ -37,4 +37,4 @@ I'm fueled by a passion for pop culture and all things geeky, infusing these ins
 - LinkedIn: [Your LinkedIn Profile](Link)
 - Twitter: [Your Twitter Profile](Link)
 --->
-- Email: [Your Email Address](jaynevernice.professional@gmail.com)
+- Email: [My Email Address](mailto:jaynevernice.professional@gmail.com)
