@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there! 👋 I'm Jayne Vernice
 
-- 🔭 I’m currently working on improving my programming skills.
-- 🌱 I’m currently learning Python and Web Development.
+- 🔭 I’m currently working on improving my front-end development skills.
+- 🌱 I’m currently learning ReactJS and Laravel.
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about programming, data analysis, deep learning, computer vision, or anything tech-related!
+- 💬 Ask me about web development, programming, data analysis, deep learning, computer vision, or anything tech-related!
 - 📫 How to reach me: jaynevernice.professional@gmail.com
 
 ## About Me
